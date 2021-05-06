@@ -72,12 +72,3 @@ img {
   align-items: center;
   justify-content: space-between;
 }
-
-hr {
-  border: none;
-  border-bottom: 4px groove;
-  margin: 2em auto;
-  width: 50%;
-}
-
-
